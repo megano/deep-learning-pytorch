@@ -30,7 +30,7 @@ pynvx==1.0.0              # via fastai
 pyparsing==2.4.6          # via matplotlib, packaging
 python-dateutil==2.8.1    # via matplotlib, pandas
 pytz==2019.3              # via pandas
-pyyaml==5.3               # via fastai
+pyyaml==5.4               # via fastai
 requests==2.23.0          # via fastai, spacy
 scipy==1.4.1              # via fastai
 six==1.14.0               # via cycler, packaging, python-dateutil, torchvision
