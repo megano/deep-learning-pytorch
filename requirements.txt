@@ -41,7 +41,7 @@ thinc==7.3.1              # via spacy
 torch==1.4.0              # via fastai, torchvision
 torchvision==0.5.0        # via fastai
 tqdm==4.43.0              # via thinc
-urllib3==1.25.8           # via requests
+urllib3==1.26.5           # via requests
 wasabi==0.6.0             # via spacy, thinc
 
 # The following packages are considered to be unsafe in a requirements file:
